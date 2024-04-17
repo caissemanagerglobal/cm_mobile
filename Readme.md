@@ -1,6 +1,6 @@
 ## Mobile Developer Coding Test: POS App Interface with JSON Server
 
-**Objective:** Develop a mobile application interface using React Native that simulates a POS platform for purchasing products.
+**Objective:** Develop a mobile application interface that simulates a POS platform for purchasing products.
 
 ### Test Screens:
 Refer to the [Figma Design](https://www.figma.com/file/BWSSd2UkDX66jtSsMZ46qR/MobileDevTest?type=design&node-id=0%3A1&mode=design&t=XyND2XVML1UJpooV-1) for layout and design specifics.
@@ -24,7 +24,7 @@ Refer to the [Figma Design](https://www.figma.com/file/BWSSd2UkDX66jtSsMZ46qR/Mo
 - Implement responsive design for different device sizes.
 
 ### Submission Guidelines:
-- Provide a GitHub repository link with the React Native project.
+- Provide a GitHub repository link.
 - Include README with setup and run instructions.
 - Ensure the JSON server is deployable with the provided dataset.
 
